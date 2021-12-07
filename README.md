@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xavierclement
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on crypto project
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning C/C++
 - 📫 How to reach me : With my email
 
 <!---
